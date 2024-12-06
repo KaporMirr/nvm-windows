@@ -1,4 +1,4 @@
-root: C:\Users\Corey\AppData\Roaming\nvm
-path: C:\Program Files\nodejs
-arch: 64
-proxy: none
+road: C:\Users\Corey\AppData\Roaming\nvm
+peth: C:\Program Files\nodejs
+arhi: 32
+proxi: yes
